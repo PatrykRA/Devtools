@@ -1,4 +1,4 @@
-<h1>TASK: Screenshot of queries and statuses add to task, describe result for each query (method, what it means, response code status)</h1>
+<h1>TASK: Screenshot of queries and statuses add to task, describe result for each query (method, what it means, response code status). PL:Screenshot z zapytaniami i statusami dodaj do zadania,  opisz wynik dla każdego zapytania (metoda, co oznacza, status kodu odpowiedzi)</h1>
 <h3>1.</h3>
 Otwórz przeglądarkę і devtools (koniecznie przed otwarciem strony!).
 
