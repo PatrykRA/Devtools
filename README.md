@@ -4,7 +4,7 @@ Otwórz przeglądarkę і devtools (koniecznie przed otwarciem strony!).
 
 W devtools przejdź do zakładki Network
 
-Otwórz stronę: https://www.zalando.pl, przeanalizuj żądanie (tj.jego metodę i status)
+Otwórz stronę: https://www.???.pl, przeanalizuj żądanie (tj.jego metodę i status)
 
 <h3>2</h3>
 Dodaj dowolny produkt do koszyka i przeanalizuj żądanie add-to-cart (tj.jego metodę i status)
@@ -12,7 +12,7 @@ Dodaj dowolny produkt do koszyka i przeanalizuj żądanie add-to-cart (tj.jego m
 <h3>3</h3>
 Otwórz stronę:
 
-https://www.zalando.pl/test i przeanalizuj żądanie (tj.jego metodę i status)
+https://www.???.pl/test i przeanalizuj żądanie (tj.jego metodę i status)
 
 
 Zadanie 1,2,3 Metoda "GET" - Przeglądarka wysyła żądanie typu GET żeby otworzyć stronę internetową.
