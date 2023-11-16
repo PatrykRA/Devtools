@@ -1,11 +1,15 @@
+<h1>TASK: Screenshot of queries and statuses add to task, describe result for each query (method, what it means, response code status)</h1>
+<h3>1.</h3>
 Otwórz przeglądarkę і devtools (koniecznie przed otwarciem strony!).
 
 W devtools przejdź do zakładki Network
 
 Otwórz stronę: https://www.zalando.pl, przeanalizuj żądanie (tj.jego metodę i status)
 
+<h3>2</h3>
 Dodaj dowolny produkt do koszyka i przeanalizuj żądanie add-to-cart (tj.jego metodę i status)
 
+<h3>3</h3>
 Otwórz stronę:
 
 https://www.zalando.pl/test i przeanalizuj żądanie (tj.jego metodę i status)
