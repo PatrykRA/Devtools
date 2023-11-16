@@ -25,7 +25,7 @@ Status 200 OK - oznacza, że żądanie zostało zakończone pomyślnie.</p>
 <p>Otwórz stronę:
 https://www.???.pl/test i przeanalizuj żądanie (tj.jego metodę i status)</p>
 <p>Open the site: https://www.???.pl, analyze the request (i.e., its method and status)</p>
-<img src="zal2.PNG">
+<img src="zal3.PNG">
 <p>Odpowiedź:Metoda "GET" - Przeglądarka wysyła żądanie typu GET żeby otworzyć stronę internetową.
 Status 404 Not Found (Błąd po stronie klienta) - żądanie nie mogło dopasować adresu URL klienta do zasobu. </p>
 <p>Answer: method "GET - The browser sends a GET request to open a web page. Status 404 Not Found (Client-side error) - the request could not match the client's URL to the resource."</p>
