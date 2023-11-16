@@ -1,1 +1,21 @@
-# Devtools
+Otwórz przeglądarkę і devtools (koniecznie przed otwarciem strony!).
+
+W devtools przejdź do zakładki Network
+
+Otwórz stronę: https://www.zalando.pl, przeanalizuj żądanie (tj.jego metodę i status)
+
+Dodaj dowolny produkt do koszyka i przeanalizuj żądanie add-to-cart (tj.jego metodę i status)
+
+Otwórz stronę:
+
+https://www.zalando.pl/test i przeanalizuj żądanie (tj.jego metodę i status)
+
+
+Zadanie 1,2,3 Metoda "GET" - Przeglądarka wysyła żądanie typu GET żeby otworzyć stronę internetową.
+Status 200 OK - oznacza, że żądanie zostało zakończone pomyślnie.
+
+Zadanie 4 metoda "POST" - słuzy do wysłania informacji z formularza znajdującego się na stronie internetowej.
+Status 200 OK - oznacza, że żądanie zostało zakończone pomyślnie.
+
+Zadanie 5 Metoda "GET" - Przeglądarka wysyła żądanie typu GET żeby otworzyć stronę internetową.
+Status 404 Not Found (Błąd po stronie klienta) - żądanie nie mogło dopasować adresu URL klienta do zasobu.
